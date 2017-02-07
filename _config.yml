@@ -39,10 +39,10 @@ links:
     url: /about
 # projects in header index
 projects:
-    #  - name: asciilang
-    #url: https://github.com/victorvoid/asciilang
-    # - name: vim-frontend
-    #  url: https://github.com/victorvoid/vim-frontend
+    - name: ydk-lldp-validator
+      url: https://github.com/dcarrier/ydk-lldp-validator
+    - name: ios-xr-grpc-python
+      url: https://github.com/dcarrier/ios-xr-grpc-python
     #- name: generator-capybara
     #url: https://github.com/victorvoid/generator-capybara 
 # exclude my node related stuff
